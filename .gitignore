@@ -12,3 +12,7 @@ mini
 _pycache_
 Faiss
 new_bm25.pkl
+uploads
+app.log
+bm25.pkl
+faiss_index

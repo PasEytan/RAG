@@ -2,3 +2,13 @@ Protocol
 .env
 .ipynb_checkpoints
 data
+temp.txt
+file_cache.pkl
+mini1.zip
+questions.csv
+try
+uploaded_pdfs
+mini
+_pycache_
+Faiss
+new_bm25.pkl

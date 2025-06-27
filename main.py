@@ -77,7 +77,7 @@ if __name__ == "__main__":
     print("Setting up environment, please wait...\n")
 
 
-    file_path = "./mini"
+    file_path = "./pdfs/"
 
     pdfs = find_pdfs(file_path)
 
